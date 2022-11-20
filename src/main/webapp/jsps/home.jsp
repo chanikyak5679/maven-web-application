@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to CK Software Solutions. Hyderabad </h1>
-<h1 align="center"> Mithun Software Solutions- Very Good Training center for aws in Hyderbad India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center"> CK Software Solutions- Very Good Training center for aws in Hyderbad India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -47,8 +47,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<p align=center>CK Technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">CK Technologies,Bengaluru</a> </small></p>
 
 </body>
 </html>
