@@ -35,7 +35,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
 		CK Technologies, 
-		ICIC Bank ,Beside Meghana Foods,
+		ICIC Bank ,
 		Hyderabad,
 		+91-9493333
 		chanikya.k5679@gmail.com
